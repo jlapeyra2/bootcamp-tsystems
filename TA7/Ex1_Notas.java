@@ -2,7 +2,7 @@ package TA7;
 
 import java.util.Hashtable;
 
-public class Ex1 {
+public class Ex1_Notas {
     
     public static void main(String[] args) {
         Hashtable<String, Double> notes = new Hashtable<>();
