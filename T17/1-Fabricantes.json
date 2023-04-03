@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "642b14aae1a3d521c0987f3d"
+  },
+  "codigo": 1,
+  " nombre": " MSI"
+},{
+  "_id": {
+    "$oid": "642b14aae1a3d521c0987f3e"
+  },
+  "codigo": 2,
+  " nombre": " ASUS"
+},{
+  "_id": {
+    "$oid": "642b14aae1a3d521c0987f3f"
+  },
+  "codigo": 3,
+  " nombre": " Gigabyte"
+},{
+  "_id": {
+    "$oid": "642b14aae1a3d521c0987f40"
+  },
+  "codigo": 4,
+  " nombre": " Zotac"
+},{
+  "_id": {
+    "$oid": "642b14aae1a3d521c0987f41"
+  },
+  "codigo": 5,
+  " nombre": " LG"
+}]

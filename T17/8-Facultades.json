@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f0a"
+  },
+  "codigo": 1,
+  "nombre": "Universitat Politècnica de Barcelona"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f0b"
+  },
+  "codigo": 2,
+  "nombre": "Universidad Complutense de Madrid"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f0c"
+  },
+  "codigo": 3,
+  "nombre": "Universitat Autònoma de Barcelona"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f0d"
+  },
+  "codigo": 4,
+  "nombre": "UGR Granada"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f0e"
+  },
+  "codigo": 5,
+  "nombre": "Universitat Pompeu Fabra"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f0f"
+  },
+  "codigo": 6,
+  "nombre": "Universidad Rey Juan Carlos"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f10"
+  },
+  "codigo": 7,
+  "nombre": "Universidad de Salamanca"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f11"
+  },
+  "codigo": 8,
+  "nombre": "Campus de Bizkaia"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f12"
+  },
+  "codigo": 9,
+  "nombre": "Universitat de Alicante"
+},{
+  "_id": {
+    "$oid": "642b124ae1a3d521c0987f13"
+  },
+  "codigo": 10,
+  "nombre": "Universidad de Oviedo"
+}]

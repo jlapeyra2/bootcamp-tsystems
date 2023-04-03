@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "642b1affe1a3d521c0987f53"
+  },
+  "DNI": "1111111A",
+  "Nombre": "Joan",
+  "Apellidos": "Lapeyra Amat",
+  "Departamento": 4
+},{
+  "_id": {
+    "$oid": "642b1affe1a3d521c0987f54"
+  },
+  "DNI": "2222222B",
+  "Nombre": "Josep Maria",
+  "Apellidos": "Pallàs Batalla",
+  "Departamento": 4
+},{
+  "_id": {
+    "$oid": "642b1affe1a3d521c0987f55"
+  },
+  "DNI": "3333333C",
+  "Nombre": "Ventura",
+  "Apellidos": "Gassol Rovira",
+  "Departamento": 1
+},{
+  "_id": {
+    "$oid": "642b1affe1a3d521c0987f56"
+  },
+  "DNI": "4444444D",
+  "Nombre": "Martí­",
+  "Apellidos": "Esteve Guau",
+  "Departamento": 5
+},{
+  "_id": {
+    "$oid": "642b1affe1a3d521c0987f57"
+  },
+  "DNI": "5555555E",
+  "Nombre": "Joan",
+  "Apellidos": "Selves Carner",
+  "Departamento": 3
+}]

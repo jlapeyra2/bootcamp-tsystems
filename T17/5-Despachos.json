@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e80"
+  },
+  "num": 0,
+  "capacidad": 50
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e81"
+  },
+  "num": 1,
+  "capacidad": 5
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e82"
+  },
+  "num": 2,
+  "capacidad": 20
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e83"
+  },
+  "num": 3,
+  "capacidad": 30
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e84"
+  },
+  "num": 4,
+  "capacidad": 10
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e85"
+  },
+  "num": 5,
+  "capacidad": 10
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e86"
+  },
+  "num": 6,
+  "capacidad": 10
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e87"
+  },
+  "num": 7,
+  "capacidad": 15
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e88"
+  },
+  "num": 8,
+  "capacidad": 3
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e89"
+  },
+  "num": 9,
+  "capacidad": 1
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e8a"
+  },
+  "num": 10,
+  "capacidad": 2
+},{
+  "_id": {
+    "$oid": "642b0a6be1a3d521c0987e8b"
+  },
+  "num": 11,
+  "capacidad": 150
+}]

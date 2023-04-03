@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e8d"
+  },
+  "DNI": "1234567A",
+  "nombre_apellidos": "Jose Marin",
+  "despacho": 10
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e8e"
+  },
+  "DNI": "1234567Z",
+  "nombre_apellidos": "Josep Pallas Batalla",
+  "despacho": 1,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e8f"
+  },
+  "DNI": "1234567B",
+  "nombre_apellidos": "Marta Cyrn",
+  "despacho": 2,
+  "DNI_jefe": "1234567Z"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e90"
+  },
+  "DNI": "1234567C",
+  "nombre_apellidos": "Sergi Gimenez",
+  "despacho": 5
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e91"
+  },
+  "DNI": "1234567D",
+  "nombre_apellidos": "Albert Peres",
+  "despacho": 1
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e92"
+  },
+  "DNI": "1234567E",
+  "nombre_apellidos": "Paula Sousa",
+  "despacho": 4,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e93"
+  },
+  "DNI": "1234567F",
+  "nombre_apellidos": "Marc Saez",
+  "despacho": 4,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e94"
+  },
+  "DNI": "1234567G",
+  "nombre_apellidos": "Joan Lapeyra",
+  "despacho": 4,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e95"
+  },
+  "DNI": "1234567H",
+  "nombre_apellidos": "Francisco Parra",
+  "despacho": 3,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e96"
+  },
+  "DNI": "1234567I",
+  "nombre_apellidos": "Palmira Algomás",
+  "despacho": 3,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e97"
+  },
+  "DNI": "1234567J",
+  "nombre_apellidos": "Alberto del Pozo",
+  "despacho": 3,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e98"
+  },
+  "DNI": "1234567K",
+  "nombre_apellidos": "Andrea Dal Pezzo",
+  "despacho": 6,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e99"
+  },
+  "DNI": "1234567L",
+  "nombre_apellidos": "Aitor Iglesias",
+  "despacho": 7,
+  "DNI_jefe": "1234567A"
+},{
+  "_id": {
+    "$oid": "642b0a7ae1a3d521c0987e9a"
+  },
+  "DNI": "1234567M",
+  "nombre_apellidos": "Arnau Leinster Beloquí",
+  "despacho": 8,
+  "DNI_jefe": "1234567A"
+}]

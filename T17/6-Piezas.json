@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e5f"
+  },
+  "codigo": 1,
+  "nombre": "Tornillo"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e60"
+  },
+  "codigo": 2,
+  "nombre": "Arandela"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e61"
+  },
+  "codigo": 3,
+  "nombre": "Tuerca"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e62"
+  },
+  "codigo": 4,
+  "nombre": "Resistor"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e63"
+  },
+  "codigo": 5,
+  "nombre": "Capacitor"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e64"
+  },
+  "codigo": 6,
+  "nombre": "Perno"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e65"
+  },
+  "codigo": 7,
+  "nombre": "Brida"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e66"
+  },
+  "codigo": 8,
+  "nombre": "Leva"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e67"
+  },
+  "codigo": 9,
+  "nombre": "Cable"
+},{
+  "_id": {
+    "$oid": "642afa08e1a3d521c0987e68"
+  },
+  "codigo": 10,
+  "nombre": "Engranaje"
+}]

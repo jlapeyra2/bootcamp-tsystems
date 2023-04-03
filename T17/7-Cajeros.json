@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987edd"
+  },
+  "codigo": 1,
+  "nom_apels": "Joan Lapeyra"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ede"
+  },
+  "codigo": 2,
+  "nom_apels": "Josep Maria Pallàs"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987edf"
+  },
+  "codigo": 3,
+  "nom_apels": "Nil Cardaner"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ee0"
+  },
+  "codigo": 4,
+  "nom_apels": "Joana Vilapuig"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ee1"
+  },
+  "codigo": 5,
+  "nom_apels": "Àlex Monner"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ee2"
+  },
+  "codigo": 6,
+  "nom_apels": "Mikel Iglesias"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ee3"
+  },
+  "codigo": 7,
+  "nom_apels": "Igor Spakowsky"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ee4"
+  },
+  "codigo": 8,
+  "nom_apels": "Marc Balaguer"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ee5"
+  },
+  "codigo": 9,
+  "nom_apels": "Isabel Torres"
+},{
+  "_id": {
+    "$oid": "642b1216e1a3d521c0987ee6"
+  },
+  "codigo": 10,
+  "nom_apels": "Diego Garcia"
+}]

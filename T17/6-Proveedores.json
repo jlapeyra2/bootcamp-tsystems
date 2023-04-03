@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e6a"
+  },
+  "id": "A001",
+  "nombre": "Proveedor 1"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e6b"
+  },
+  "id": "A002",
+  "nombre": "Proveedor 2"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e6c"
+  },
+  "id": "A003",
+  "nombre": "Proveedor 3"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e6d"
+  },
+  "id": "A004",
+  "nombre": "Proveedor 4"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e6e"
+  },
+  "id": "A005",
+  "nombre": "Proveedor 5"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e6f"
+  },
+  "id": "A006",
+  "nombre": "Proveedor 6"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e70"
+  },
+  "id": "A007",
+  "nombre": "Proveedor 7"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e71"
+  },
+  "id": "A008",
+  "nombre": "Proveedor 8"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e72"
+  },
+  "id": "A009",
+  "nombre": "Proveedor 9"
+},{
+  "_id": {
+    "$oid": "642b0008e1a3d521c0987e73"
+  },
+  "id": "A010",
+  "nombre": "Proveedor 10"
+}]

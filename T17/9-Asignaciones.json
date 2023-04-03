@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eaa"
+  },
+  "DNI_cientifico": "1234567A",
+  "ID_proyecto": "ZZ99"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eab"
+  },
+  "DNI_cientifico": "1234567Z",
+  "ID_proyecto": "ZZ99"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eac"
+  },
+  "DNI_cientifico": "1234567B",
+  "ID_proyecto": "AA01"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987ead"
+  },
+  "DNI_cientifico": "1234567C",
+  "ID_proyecto": "AA02"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eae"
+  },
+  "DNI_cientifico": "1234567D",
+  "ID_proyecto": "AA03"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eaf"
+  },
+  "DNI_cientifico": "1234567E",
+  "ID_proyecto": "AB01"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eb0"
+  },
+  "DNI_cientifico": "1234567F",
+  "ID_proyecto": "AB02"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eb1"
+  },
+  "DNI_cientifico": "1234567G",
+  "ID_proyecto": "AC03"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eb2"
+  },
+  "DNI_cientifico": "1234567H",
+  "ID_proyecto": "AC01"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eb3"
+  },
+  "DNI_cientifico": "1234567I",
+  "ID_proyecto": "AC02"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eb4"
+  },
+  "DNI_cientifico": "1234567J",
+  "ID_proyecto": "AC03"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eb5"
+  },
+  "DNI_cientifico": "1234567K",
+  "ID_proyecto": "AD01"
+},{
+  "_id": {
+    "$oid": "642b0f74e1a3d521c0987eb6"
+  },
+  "DNI_cientifico": "1234567L",
+  "ID_proyecto": "AA03"
+}]

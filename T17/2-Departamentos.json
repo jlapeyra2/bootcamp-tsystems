@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "642b1af0e1a3d521c0987f4d"
+  },
+  "Codigo": 1,
+  "Nombre": "ventas",
+  "Presupuesto": 3000
+},{
+  "_id": {
+    "$oid": "642b1af0e1a3d521c0987f4e"
+  },
+  "Codigo": 2,
+  "Nombre": "marketing",
+  "Presupuesto": 2000
+},{
+  "_id": {
+    "$oid": "642b1af0e1a3d521c0987f4f"
+  },
+  "Codigo": 3,
+  "Nombre": "operaciones",
+  "Presupuesto": 5000
+},{
+  "_id": {
+    "$oid": "642b1af0e1a3d521c0987f50"
+  },
+  "Codigo": 4,
+  "Nombre": "informatica",
+  "Presupuesto": 4000
+},{
+  "_id": {
+    "$oid": "642b1af0e1a3d521c0987f51"
+  },
+  "Codigo": 5,
+  "Nombre": "finanzas",
+  "Presupuesto": 2000
+}]

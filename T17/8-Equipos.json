@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987efe"
+  },
+  "num_serie": "AA01",
+  "nombre": "equipo UPB",
+  "facultad": 1
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987eff"
+  },
+  "num_serie": "AA02",
+  "nombre": "equipo UCM",
+  "facultad": 2
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f00"
+  },
+  "num_serie": "AA03",
+  "nombre": "equipo UAB",
+  "facultad": 3
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f01"
+  },
+  "num_serie": "AB01",
+  "nombre": "equipo UGRG",
+  "facultad": 4
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f02"
+  },
+  "num_serie": "AB02",
+  "nombre": "equipo UPF",
+  "facultad": 5
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f03"
+  },
+  "num_serie": "AB03",
+  "nombre": "equipo URJC",
+  "facultad": 6
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f04"
+  },
+  "num_serie": "AC01",
+  "nombre": "equipo UDS",
+  "facultad": 7
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f05"
+  },
+  "num_serie": "AC02",
+  "nombre": "equipo CDP",
+  "facultad": 8
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f06"
+  },
+  "num_serie": "AC03",
+  "nombre": "equipo UDA",
+  "facultad": 9
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f07"
+  },
+  "num_serie": "AD01",
+  "nombre": "equipo UDO",
+  "facultad": 10
+},{
+  "_id": {
+    "$oid": "642b1242e1a3d521c0987f08"
+  },
+  "num_serie": "ZZ99",
+  "nombre": "equipo TOP SECRET UPB",
+  "facultad": 1
+}]

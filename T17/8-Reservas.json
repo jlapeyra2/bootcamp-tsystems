@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f24"
+  },
+  "DNI_investigador": "1234567A",
+  "num_equipo": "ZZ99",
+  "comienzo": "2023-03-25 00:00:00",
+  "fin": "2024-03-25 00:00:00"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f25"
+  },
+  "DNI_investigador": "7779152F",
+  "num_equipo": "ZZ99",
+  "comienzo": "2023-03-25 00:00:00",
+  "fin": "2024-03-25 00:00:00"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f26"
+  },
+  "DNI_investigador": "1234567B",
+  "num_equipo": "AA01",
+  "comienzo": "2022-06-10 12:00:00",
+  "fin": "2023-05-01 12:55:59"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f27"
+  },
+  "DNI_investigador": "1234567C",
+  "num_equipo": "AA01",
+  "comienzo": "2022-06-10 12:00:00",
+  "fin": "2023-05-01 12:55:59"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f28"
+  },
+  "DNI_investigador": "1234567D",
+  "num_equipo": "AA02",
+  "comienzo": "2023-03-01 00:00:00",
+  "fin": "2023-03-30 00:00:00"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f29"
+  },
+  "DNI_investigador": "1234567E",
+  "num_equipo": "AA03",
+  "comienzo": "2023-01-01 00:00:00",
+  "fin": "2023-02-01 00:00:00"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f2a"
+  },
+  "DNI_investigador": "1234567F",
+  "num_equipo": "AB01",
+  "comienzo": "2025-01-01 00:00:00",
+  "fin": "2026-01-01 00:00:00"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f2b"
+  },
+  "DNI_investigador": "1234567G",
+  "num_equipo": "AB02",
+  "comienzo": "2023-02-14 00:00:00",
+  "fin": "2023-02-15 00:00:00"
+},{
+  "_id": {
+    "$oid": "642b125ce1a3d521c0987f2c"
+  },
+  "DNI_investigador": "1234567H",
+  "num_equipo": "AB03",
+  "comienzo": "2023-03-26 00:00:00",
+  "fin": "2023-03-26 23:59:59"
+}]

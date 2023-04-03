@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "642b1b24e1a3d521c0987f5f"
+  },
+  "codigo": "ASD12",
+  "contenido": "Papel",
+  "valor": 100,
+  "almacen": 1
+},{
+  "_id": {
+    "$oid": "642b1b24e1a3d521c0987f60"
+  },
+  "codigo": "ASD13",
+  "contenido": "Cemento",
+  "valor": 400,
+  "almacen": 2
+},{
+  "_id": {
+    "$oid": "642b1b24e1a3d521c0987f61"
+  },
+  "codigo": "ASD14",
+  "contenido": "Monitores",
+  "valor": 150,
+  "almacen": 3
+},{
+  "_id": {
+    "$oid": "642b1b24e1a3d521c0987f62"
+  },
+  "codigo": "ASD15",
+  "contenido": "Perfumes",
+  "valor": 50,
+  "almacen": 4
+},{
+  "_id": {
+    "$oid": "642b1b24e1a3d521c0987f63"
+  },
+  "codigo": "ASD16",
+  "contenido": "Ratones",
+  "valor": 500,
+  "almacen": 5
+}]

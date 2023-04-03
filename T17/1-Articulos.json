@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "642b149be1a3d521c0987f37"
+  },
+  "nombre": "Monitor",
+  " precio": 200,
+  " fabricante": 1
+},{
+  "_id": {
+    "$oid": "642b149be1a3d521c0987f38"
+  },
+  "nombre": "GPU",
+  " precio": 400,
+  " fabricante": 2
+},{
+  "_id": {
+    "$oid": "642b149be1a3d521c0987f39"
+  },
+  "nombre": "Placa Base",
+  " precio": 150,
+  " fabricante": 3
+},{
+  "_id": {
+    "$oid": "642b149be1a3d521c0987f3a"
+  },
+  "nombre": "Fuente de Alimentacion",
+  " precio": 80,
+  " fabricante": 4
+},{
+  "_id": {
+    "$oid": "642b149be1a3d521c0987f3b"
+  },
+  "nombre": "Smartphone",
+  " precio": 599,
+  " fabricante": 5
+}]

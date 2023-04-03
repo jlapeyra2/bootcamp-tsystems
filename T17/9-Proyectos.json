@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ec7"
+  },
+  "ID": "AA01",
+  "nombre": "ejercicio_1",
+  "horas": 10
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ec8"
+  },
+  "ID": "AA02",
+  "nombre": "ejercicio_2",
+  "horas": 20
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ec9"
+  },
+  "ID": "AA03",
+  "nombre": "ejercicio_3",
+  "horas": 5
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987eca"
+  },
+  "ID": "AB01",
+  "nombre": "ejercicio_4",
+  "horas": 1
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ecb"
+  },
+  "ID": "AB02",
+  "nombre": "ejercicio_5",
+  "horas": 3
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ecc"
+  },
+  "ID": "AB03",
+  "nombre": "ejercicio_6",
+  "horas": 2
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ecd"
+  },
+  "ID": "AC01",
+  "nombre": "ejercicio_7",
+  "horas": 15
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ece"
+  },
+  "ID": "AC02",
+  "nombre": "ejercicio_8",
+  "horas": 10
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ecf"
+  },
+  "ID": "AC03",
+  "nombre": "ejercicio_9",
+  "horas": 7
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ed0"
+  },
+  "ID": "AD01",
+  "nombre": "ejercicio_10",
+  "horas": 5
+},{
+  "_id": {
+    "$oid": "642b0f85e1a3d521c0987ed1"
+  },
+  "ID": "ZZ99",
+  "nombre": "TOP SECRET",
+  "horas": 300
+}]

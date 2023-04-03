@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "642b1f038ba5a89c0264272f"
+  },
+  "codigo": 1,
+  "nombre": "La la land",
+  "calificacion_edad": 7
+},{
+  "_id": {
+    "$oid": "642b1f7e8ba5a89c02642730"
+  },
+  "codigo": 2,
+  "nombre": "Joker",
+  "calificacion_edad": 16
+},{
+  "_id": {
+    "$oid": "642b1f8e8ba5a89c02642731"
+  },
+  "codigo": 3,
+  "nombre": "Parásitos",
+  "calificacion_edad": 18
+},{
+  "_id": {
+    "$oid": "642b1f9e8ba5a89c02642732"
+  },
+  "codigo": 4,
+  "nombre": "Toy Story",
+  "calificacion_edad": 0
+},{
+  "_id": {
+    "$oid": "642b1fab8ba5a89c02642733"
+  },
+  "codigo": 5,
+  "nombre": "Luca",
+  "calificacion_edad": 0
+}]

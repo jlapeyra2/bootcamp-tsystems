@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987eb8"
+  },
+  "DNI": "1234567A",
+  "nombre_apellidos": "Jose Marin"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987eb9"
+  },
+  "DNI": "1234567Z",
+  "nombre_apellidos": "Josep Pallas Batalla"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987eba"
+  },
+  "DNI": "1234567B",
+  "nombre_apellidos": "Marta Cyrn"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ebb"
+  },
+  "DNI": "1234567C",
+  "nombre_apellidos": "Sergi Gimenez"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ebc"
+  },
+  "DNI": "1234567D",
+  "nombre_apellidos": "Albert Peres"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ebd"
+  },
+  "DNI": "1234567E",
+  "nombre_apellidos": "Paula Sousa"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ebe"
+  },
+  "DNI": "1234567F",
+  "nombre_apellidos": "Marc Saez"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ebf"
+  },
+  "DNI": "1234567G",
+  "nombre_apellidos": "Joan Lapeyra"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ec0"
+  },
+  "DNI": "1234567H",
+  "nombre_apellidos": "Francisco Parra"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ec1"
+  },
+  "DNI": "1234567I",
+  "nombre_apellidos": "Palmira Algomás"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ec2"
+  },
+  "DNI": "1234567J",
+  "nombre_apellidos": "Alberto del Pozo"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ec3"
+  },
+  "DNI": "1234567K",
+  "nombre_apellidos": "Andrea Dal Pezzo"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ec4"
+  },
+  "DNI": "1234567L",
+  "nombre_apellidos": "Aitor Iglesias"
+},{
+  "_id": {
+    "$oid": "642b0f7de1a3d521c0987ec5"
+  },
+  "DNI": "1234567M",
+  "nombre_apellidos": "Arnau Leinster Beloquí"
+}]

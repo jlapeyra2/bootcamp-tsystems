@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987ee8"
+  },
+  "codigo": 1,
+  "piso": 1
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987ee9"
+  },
+  "codigo": 2,
+  "piso": 2
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987eea"
+  },
+  "codigo": 3,
+  "piso": 1
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987eeb"
+  },
+  "codigo": 4,
+  "piso": 3
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987eec"
+  },
+  "codigo": 5,
+  "piso": 2
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987eed"
+  },
+  "codigo": 6,
+  "piso": 1
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987eee"
+  },
+  "codigo": 7,
+  "piso": 3
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987eef"
+  },
+  "codigo": 8,
+  "piso": 2
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987ef0"
+  },
+  "codigo": 9,
+  "piso": 1
+},{
+  "_id": {
+    "$oid": "642b1229e1a3d521c0987ef1"
+  },
+  "codigo": 10,
+  "piso": 3
+}]

@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f15"
+  },
+  "DNI": "1234567A",
+  "nombre_apellidos": "Jose Marin",
+  "facultad": 1
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f16"
+  },
+  "DNI": "7779152F",
+  "nombre_apellidos": "Josep Pallas Batalla",
+  "facultad": 1
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f17"
+  },
+  "DNI": "1234567B",
+  "nombre_apellidos": "Marta Cyrn",
+  "facultad": 2
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f18"
+  },
+  "DNI": "1234567C",
+  "nombre_apellidos": "Sergi Gimenez",
+  "facultad": 3
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f19"
+  },
+  "DNI": "1234567D",
+  "nombre_apellidos": "Albert Peres",
+  "facultad": 4
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f1a"
+  },
+  "DNI": "1234567E",
+  "nombre_apellidos": "Paula Sousa",
+  "facultad": 5
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f1b"
+  },
+  "DNI": "1234567F",
+  "nombre_apellidos": "Marc Saez",
+  "facultad": 6
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f1c"
+  },
+  "DNI": "1234567G",
+  "nombre_apellidos": "Joan Lapeyra",
+  "facultad": 7
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f1d"
+  },
+  "DNI": "1234567H",
+  "nombre_apellidos": "Francisco Parra",
+  "facultad": 8
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f1e"
+  },
+  "DNI": "1234567I",
+  "nombre_apellidos": "Palmira Algomás",
+  "facultad": 9
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f1f"
+  },
+  "DNI": "1234567J",
+  "nombre_apellidos": "Alberto del Pozo",
+  "facultad": 10
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f20"
+  },
+  "DNI": "1234567K",
+  "nombre_apellidos": "Andrea Dal Pezzo",
+  "facultad": 3
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f21"
+  },
+  "DNI": "1234567L",
+  "nombre_apellidos": "Aitor Iglesias",
+  "facultad": 5
+},{
+  "_id": {
+    "$oid": "642b1252e1a3d521c0987f22"
+  },
+  "DNI": "1234567M",
+  "nombre_apellidos": "Arnau Leinster Beloquí",
+  "facultad": 7
+}]
