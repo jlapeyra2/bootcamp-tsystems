@@ -13,13 +13,13 @@ public interface IFabricanteService {
 	//Metodos del CRUD
 	public List<Fabricante> listar(); //Listar All 
 	
-	public Fabricante guardar(Fabricante cliente);	//Guarda un cliente CREATE
+	public Fabricante guardar(Fabricante fabricante);	//Guarda un fabricante CREATE
 	
-	public Fabricante buscar(Long id); //Leer datos de un cliente READ
+	public Fabricante buscar(Long id); //Leer datos de un fabricante READ
 	
-	public Fabricante actualizar(Fabricante x); //Actualiza datos del cliente UPDATE
+	public Fabricante actualizar(Fabricante x); //Actualiza datos del fabricante UPDATE
 	
-	public void eliminar(Long id);// Elimina el cliente DELETE
+	public void eliminar(Long id);// Elimina el fabricante DELETE
 	
 	
 }

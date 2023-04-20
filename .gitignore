@@ -1,3 +1,6 @@
 *.class
 *.ign
-T24/jose/
+*/jose/
+/.metadata/
+*/template/
+*/*.sh

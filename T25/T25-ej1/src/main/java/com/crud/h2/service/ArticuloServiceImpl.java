@@ -11,7 +11,7 @@ import com.crud.h2.dto.Articulo;
 @Service
 public class ArticuloServiceImpl implements IArticuloService{
 	
-	//Utilizamos los metodos de la interface IClienteDAO, es como si instaciaramos.
+	//Utilizamos los metodos de la interface IfabricanteDAO, es como si instaciaramos.
 	@Autowired
 	IArticuloDAO iArticuloDAO;
 	

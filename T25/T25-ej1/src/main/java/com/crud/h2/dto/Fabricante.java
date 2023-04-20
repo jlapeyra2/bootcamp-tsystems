@@ -21,7 +21,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 @Table
 public class Fabricante  {
  
-	//Atributos de entidad cliente
+	//Atributos de entidad fabricante
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)//busca ultimo valor e incrementa desde id final de db
 	private Long id;
@@ -67,12 +67,6 @@ public class Fabricante  {
 	}
 
 
-	//Metodo impresion de datos por consola
-	/*@Override
-	public String toString() {
-		return "Cliente [id=" + id + ", nombre=" + nombre + ", apellido=" + apellido + ", direccion=" + direccion
-				+ ", dni=" + dni + ", fecha=" + fecha + "]";
-	}*/
 	
 	
 	

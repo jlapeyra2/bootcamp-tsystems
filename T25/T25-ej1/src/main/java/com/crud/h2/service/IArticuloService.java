@@ -13,13 +13,13 @@ public interface IArticuloService {
 	//Metodos del CRUD
 	public List<Articulo> listar(); //Listar All 
 	
-	public Articulo guardar(Articulo cliente);	//Guarda un cliente CREATE
+	public Articulo guardar(Articulo articulo);	//Guarda un articulo CREATE
 	
-	public Articulo buscar(Long id); //Leer datos de un cliente READ
+	public Articulo buscar(Long id); //Leer datos de un articulo READ
 	
-	public Articulo actualizar(Articulo x); //Actualiza datos del cliente UPDATE
+	public Articulo actualizar(Articulo x); //Actualiza datos del articulo UPDATE
 	
-	public void eliminar(Long id);// Elimina el cliente DELETE
+	public void eliminar(Long id);// Elimina el articulo DELETE
 	
 	
 }

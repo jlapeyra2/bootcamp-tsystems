@@ -27,34 +27,34 @@ public class FabricanteController {
 	}
 	
 	@PostMapping("/fabricantes")
-	public Fabricante salvar(@RequestBody Fabricante cliente) {
+	public Fabricante salvar(@RequestBody Fabricante fabricante) {
 		
-		return fabricanteServideImpl.guardar(cliente);
+		return fabricanteServideImpl.guardar(fabricante);
 	}
 	
 	@GetMapping("/fabricantes/{id}")
 	public Fabricante buscar(@PathVariable(name="id") Long id) {
 		
-		Fabricante cliente_xid= new Fabricante();
+		Fabricante fabricante_xid= new Fabricante();
 		
-		cliente_xid=fabricanteServideImpl.buscar(id);
+		fabricante_xid=fabricanteServideImpl.buscar(id);
 		
-		System.out.println("Cliente XID: "+cliente_xid);
+		System.out.println("fabricante XID: "+fabricante_xid);
 		
-		return cliente_xid;
+		return fabricante_xid;
 	}
 	
 	@PutMapping("/fabricantes/{id}")
-	public Fabricante actualizar(@PathVariable(name="id")Long id,@RequestBody Fabricante cliente) {
+	public Fabricante actualizar(@PathVariable(name="id")Long id,@RequestBody Fabricante fabricante) {
 		
 		Fabricante fabricante_seleccionado= fabricanteServideImpl.buscar(id);
 		
-		fabricante_seleccionado.setNombre(cliente.getNombre());
-		fabricante_seleccionado.setArticulos(cliente.getArticulos());
+		fabricante_seleccionado.setNombre(fabricante.getNombre());
+		fabricante_seleccionado.setArticulos(fabricante.getArticulos());
 		
 		Fabricante fabricante_actualizado = fabricanteServideImpl.actualizar(fabricante_seleccionado);
 		
-		System.out.println("El cliente actualizado es: "+ fabricante_actualizado);
+		System.out.println("El fabricante actualizado es: "+ fabricante_actualizado);
 		
 		return fabricante_actualizado;
 	}

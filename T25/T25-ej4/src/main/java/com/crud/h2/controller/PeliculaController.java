@@ -27,8 +27,8 @@ public class PeliculaController {
 	}
 	
 	@PostMapping("/peliculas")
-	public Pelicula salvar(@RequestBody Pelicula cliente) {
-		return peliculaServideImpl.guardar(cliente);
+	public Pelicula salvar(@RequestBody Pelicula pelicula) {
+		return peliculaServideImpl.guardar(pelicula);
 	}
 	
 	@GetMapping("/peliculas/{id}")
