@@ -1,0 +1,31 @@
+body {
+    background-color: #FFF9EF;
+    font-family: Arial, sans-serif;
+    color: #585858;
+}
+
+h1 {
+    background-color: #f8ff8f;
+    font-size: 140%;
+    padding-left: 5px;
+}
+
+h2 {
+    font-style: italic;
+    font-family: Verdana, Geneva, sans-serif;
+    color: #649dc5;
+}
+
+h3 {
+    font-weight: bold;
+    color: #678090;
+}
+
+.punt {
+    font-style: italic;
+    color: #4a718b;
+}
+
+.lista {
+    margin-left: 20px;
+}
