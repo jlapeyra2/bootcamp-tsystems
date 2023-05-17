@@ -1,0 +1,26 @@
+.col {
+    margin: 0px;
+    padding: 0;
+}
+
+.container {
+    max-width: 300px;
+}
+
+.form-control:disabled {
+    background-color: white;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.col {
+    padding-left: 0px;
+}
+
+.btn-group {
+    padding-right: 0px;
+}
+
+.btn {
+    border-radius: 0;
+}

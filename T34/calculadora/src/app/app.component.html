@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+
+<body (keydown)="handleKeyDown($event)">
+    <div class="container">
+        <h1>Calculadora</h1>
+        <div id="calculator">
+            <input id="display" class="form-control" disabled>
+            <div class="row">
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('7')">7</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('8')">8</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('9')">9</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-secondary btn-block" (click)="addToDisplay('+')">+</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('4')">4</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('5')">5</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('6')">6</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-secondary btn-block" (click)="addToDisplay('-')">-</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('1')">1</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('2')">2</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('3')">3</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-secondary btn-block" (click)="addToDisplay('*')">*</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('&lpar;')">&lpar;</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('0')">0</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('&rpar;')">&rpar;</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-secondary btn-block" (click)="addToDisplay('/')">/</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col btn-group">
+                    <button class="btn btn-primary btn-block" (click)="addToDisplay('.')">.</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-danger btn-block" (click)="clearDisplay()">C</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-danger btn-block" (click)="erase()">⌫</button>
+                </div>
+                <div class="col btn-group">
+                    <button class="btn btn-success btn-block" (click)="calculate()">=</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
