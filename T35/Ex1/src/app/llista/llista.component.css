@@ -1,0 +1,11 @@
+.head {
+    border-bottom: solid 1px;
+}
+
+td {
+    padding-right: 3px;
+}
+
+table {
+    border-collapse: collapse;
+}

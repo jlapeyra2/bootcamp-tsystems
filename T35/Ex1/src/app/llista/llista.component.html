@@ -1,0 +1,16 @@
+<h2>
+    Lista clientes
+</h2>
+
+<table>
+    <tr>
+        <td ngClass="head" *ngFor="let atribut of atributs">
+            {{atribut}}
+        </td>
+    </tr>
+    <tr *ngFor="let client of llista">
+        <td *ngFor="let dada of client">
+            {{dada}}
+        </td>
+    </tr>
+</table>

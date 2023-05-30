@@ -1,0 +1,24 @@
+<h2>
+    Alta cliente:
+</h2>
+<table>
+    <tr *ngFor="let atribut of atributs">
+        <td>{{atribut}}:</td> 
+        <td>
+            <ng-container *ngIf="atribut === 'Grupo'; then inGrupo else input"></ng-container>
+            <ng-template #input>
+                <input type="text" id="{{atribut}}">
+            </ng-template>
+            <ng-template #inGrupo>
+                <select id="{{atribut}}">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                </select>
+            </ng-template>
+        </td>
+    </tr>
+</table>
+
+<button (click)="guardar()">Guardar</button>
+
